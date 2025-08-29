@@ -34,6 +34,6 @@ It applies Multinomial Logit (ML), Bivariate Probit (BP), and Hurdle Negative Bi
 ### 📊 Data Availability
 
 The data come from the 2024 UK **Cyber Security Breaches Survey (CSBS)**, administered by the UK Department for Science, Innovation and Technology (DSIT).  
-Available at UK Data Service with **Study Number (SN): 9285**.
+Available at UK Data Service with [**Study Number (SN): 9285**](https://doi.org/10.5255/UKDA-SN-9285-1).
 
 ---
