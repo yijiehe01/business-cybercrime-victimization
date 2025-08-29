@@ -10,7 +10,7 @@ It applies Multinomial Logit (ML), Bivariate Probit (BP), and Hurdle Negative Bi
 
 ### 📁 Repository Structure
 
-📂 /main_manuscript  
+📂 /main_scripts  
    ─ ML_BP_model_analysis_DV1&2.R      # Multinomial logit and bivariate probit models for DV1 & DV2  
    ─ HNB_model_analysis_DV3.R          # Hurdle negative binomial model for DV3  
 
